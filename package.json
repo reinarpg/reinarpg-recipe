@@ -14,7 +14,7 @@
     "url": "git+ssh://git@github.com/PrismarineJS/prismarine-recipe.git"
   },
   "peerDependencies": {
-    "prismarine-registry": "^1.4.0"
+    "reinarpg-registry": "github:reinarpg/reinarpg-registry"
   },
   "devDependencies": {
     "standard": "^17.0.0"
